@@ -38,7 +38,7 @@ const HeroSlider = styled.div`
     justify-content: center;
 `;
 
-const HeroImage = styled.image`
+const HeroImage = styled.img`
     position: absolute;
     top: 0;
     left: 0;
